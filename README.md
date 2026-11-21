@@ -303,3 +303,22 @@ On errors, the API returns a consistent shape with a timestamp:
 ---
 
 Happy building! If you want, we can add a Postman collection, Docker Compose for MySQL+App, or a profile for H2 in-memory dev.
+
+
+## Website metadata
+
+The three static HTML pages in `suems/frontend/` include page-specific descriptions, developer author/creator metadata, Open Graph metadata and Twitter card metadata. Existing titles, the homepage description, SUEMS branding and application code are preserved.
+
+The homepage includes one WebSite JSON-LD block identifying TheBenzzCreations as creator, and one visible developer credit in the existing footer. The promotional link uses `rel="noopener noreferrer nofollow"`.
+
+The official public frontend URL has not been verified. Canonical links, `og:url` and the WebSite `url` are omitted until that URL is confirmed. Do not use the backend API URL or the developer website as the frontend's canonical URL. No dedicated social preview image is configured. Structured data does not guarantee search rich results.
+
+The frontend has no package manifest, configured lint suite or build command. Backend compilation targets Java 21; backend-dependent features require the configured API and database.
+
+## Development
+
+Developed by [TheBenzzCreations](https://www.thebenzzcreations.com/).
+
+TheBenzzCreations builds custom websites, mobile applications, business software, e-commerce platforms and AI automation solutions.
+
+For development enquiries, visit our official website.
