@@ -309,7 +309,7 @@ Happy building! If you want, we can add a Postman collection, Docker Compose for
 
 The three static HTML pages in `suems/frontend/` include page-specific descriptions, developer author/creator metadata, Open Graph metadata and Twitter card metadata. Existing titles, the homepage description, SUEMS branding and application code are preserved.
 
-The homepage includes one WebSite JSON-LD block identifying TheBenzzCreations as creator, and one visible developer credit in the existing footer. The promotional link uses `rel="noopener noreferrer nofollow"`.
+The homepage includes one WebSite JSON-LD block identifying TheBenzzCreations as creator, and one visible developer credit in the existing footer. The promotional link uses `rel="nofollow"`.
 
 The official public frontend URL has not been verified. Canonical links, `og:url` and the WebSite `url` are omitted until that URL is confirmed. Do not use the backend API URL or the developer website as the frontend's canonical URL. No dedicated social preview image is configured. Structured data does not guarantee search rich results.
 
