@@ -304,3 +304,15 @@ On errors, the API returns a consistent shape with a timestamp:
 
 Happy building! If you want, we can add a Postman collection, Docker Compose for MySQL+App, or a profile for H2 in-memory dev.
 #
+
+
+## Development & Maintenance
+
+**Developed & Maintained by
+[Khushal Sehrawat](https://github.com/khushalsehrawat)**
+— Founder of
+[TheBenzzCreations](https://www.thebenzzcreations.com/).
+
+TheBenzzCreations is a digital development studio specializing in website development, custom software, mobile applications, e-commerce solutions and AI-powered business automation.
+
+For development enquiries and collaborations, visit [TheBenzzCreations](https://www.thebenzzcreations.com/).

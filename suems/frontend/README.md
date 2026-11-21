@@ -19,3 +19,15 @@ Notes
   - `/api/user-energy/*`, `/api/sensors/recent`, `/api/simulator/*`.
 - If you see CORS errors, confirm the frontend origin is allowed in `suems/src/main/java/com/suems/config/CorsConfig.java`.
 
+
+
+## Development & Maintenance
+
+**Developed & Maintained by
+[Khushal Sehrawat](https://github.com/khushalsehrawat)**
+— Founder of
+[TheBenzzCreations](https://www.thebenzzcreations.com/).
+
+TheBenzzCreations is a digital development studio specializing in website development, custom software, mobile applications, e-commerce solutions and AI-powered business automation.
+
+For development enquiries and collaborations, visit [TheBenzzCreations](https://www.thebenzzcreations.com/).

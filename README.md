@@ -309,16 +309,19 @@ Happy building! If you want, we can add a Postman collection, Docker Compose for
 
 The three static HTML pages in `suems/frontend/` include page-specific descriptions, developer author/creator metadata, Open Graph metadata and Twitter card metadata. Existing titles, the homepage description, SUEMS branding and application code are preserved.
 
-The homepage includes one WebSite JSON-LD block identifying TheBenzzCreations as creator, and one visible developer credit in the existing footer. The promotional link uses `rel="nofollow"`.
+The homepage includes one WebSite JSON-LD block identifying TheBenzzCreations as creator, and one visible developer credit in the existing footer. The developer link uses a normal same-tab hyperlink.
 
 The official public frontend URL has not been verified. Canonical links, `og:url` and the WebSite `url` are omitted until that URL is confirmed. Do not use the backend API URL or the developer website as the frontend's canonical URL. No dedicated social preview image is configured. Structured data does not guarantee search rich results.
 
 The frontend has no package manifest, configured lint suite or build command. Backend compilation targets Java 21; backend-dependent features require the configured API and database.
 
-## Development
+## Development & Maintenance
 
-Developed by [TheBenzzCreations](https://www.thebenzzcreations.com/).
+**Developed & Maintained by
+[Khushal Sehrawat](https://github.com/khushalsehrawat)**
+— Founder of
+[TheBenzzCreations](https://www.thebenzzcreations.com/).
 
-TheBenzzCreations builds custom websites, mobile applications, business software, e-commerce platforms and AI automation solutions.
+TheBenzzCreations is a digital development studio specializing in website development, custom software, mobile applications, e-commerce solutions and AI-powered business automation.
 
-For development enquiries, visit our official website.
+For development enquiries and collaborations, visit [TheBenzzCreations](https://www.thebenzzcreations.com/).
