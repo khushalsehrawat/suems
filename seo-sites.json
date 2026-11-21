@@ -1,0 +1,14 @@
+{
+  "sites": [
+    {
+      "name": "suems",
+      "root": "suems/frontend",
+      "base_url": null,
+      "pages": {
+        "dashboard.html": null,
+        "index.html": null,
+        "login.html": null
+      }
+    }
+  ]
+}
